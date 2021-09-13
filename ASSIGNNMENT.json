@@ -1,0 +1,47 @@
+{
+  "books": {
+    "heading": "ASSIGNMENT",
+    "book": [
+      {
+        "title": "Title -: Web Programming",
+        "author": "Author -: Chrisbates",
+        "publisher": "Publisher -: Wiley",
+        "edition": "Edition -: 3",
+        "price": "Price -: 300",
+        "sold": 44444
+      },
+      {
+        "title": "Title -: Internet world-wide-web",
+        "author": "Author -: Ditel",
+        "publisher": "Publisher -: Pearson",
+        "edition": "Edition -: 3",
+        "price": "Price -: 400",
+        "sold": 100000
+      },
+      {
+        "title": "Title -: Computer Networks",
+        "author": "Author -: Foruouzan",
+        "publisher": "Publisher -: Mc Graw Hill",
+        "edition": "Edition -: 5",
+        "price": "Price -: 700",
+        "sold": 45668899
+      },
+      {
+        "title": "Title -: DBMS Concepts",
+        "author": "Author -: Navath",
+        "publisher": "Publisher -: Oxford",
+        "edition": "Edition -: 5",
+        "price": "Price -: 600",
+        "sold": 556433
+      },
+      {
+        "title": "Title -: Linux Programming",
+        "author": "Author -: Subhitab Das",
+        "publisher": "Publisher -: Oxford",
+        "edition": "Edition -: 8",
+        "price": "Price -: 300",
+        "sold": 444
+      }
+    ]
+  }
+}
